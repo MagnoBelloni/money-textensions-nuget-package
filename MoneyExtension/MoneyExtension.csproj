@@ -6,10 +6,10 @@
     <Nullable>enable</Nullable>
 
     <PackageId>MoneyExtensionsMB</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <License>MIT</License>
     <Authors>Magno Belloni</Authors>
-    <PackageDescription>Extension to convert decimal to integer</PackageDescription>
+    <PackageDescription>Extension to convert decimal to integer. This Extension was build in a study scenario, should not be use in production</PackageDescription>
     <Description>This Extension was build in a study scenario, should not be use in production</Description>
     <RepositoryUrl>https://github.com/MagnoBelloni/money-textensions-nuget-package</RepositoryUrl>
     <PackageProjectUrl>https://github.com/MagnoBelloni/money-textensions-nuget-package</PackageProjectUrl>
