@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Master branch
+      - name: Checkout master branch
         uses: actions/checkout@master
 
       - name: Install .NET Core
