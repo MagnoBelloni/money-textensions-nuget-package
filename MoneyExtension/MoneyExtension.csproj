@@ -4,6 +4,25 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>MoneyExtensionsMB</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Magno Belloni</Authors>
+    <PackageDescription>Extension to convert decimal to integer</PackageDescription>
+    <Description>This Extension was build in a study scenario, should not be use in production</Description>
+    <RepositoryUrl>https://github.com/MagnoBelloni/money-textensions-nuget-package</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/MagnoBelloni/money-textensions-nuget-package</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>money;int;decimal;converter</PackageTags>
+    <ReleaseNotes>Just testing the release notes tag</ReleaseNotes>
+    <Title>MoneyExtensions</Title>
+    <Summary>Extension to convert decimal to integer</Summary>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\Media\icon.png" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 
 </Project>
